@@ -43,7 +43,7 @@ To get started with the building process, you'll need to get familiar with [Git 
 To initialize your local repository, use a command like this:
 
 ```bash
-    repo init -u git://github.com/DotOS/manifest.git -b dot-o
+    repo init -u git://github.com/Bet4Sh4dow/manifest.git -b dot-o
 ```
 
 Then to sync up:
